@@ -461,7 +461,7 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead .intro-text {
         padding-top: 300px;
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding-bottom: 200px; }
     header.masthead .intro-text .intro-lead-in {
@@ -1005,7 +1005,7 @@ ul.social-buttons {
 
 .tz-gallery .lightbox img {
     width: 100%;
-    height: 500px;
+    height: auto;
     margin-bottom: 30px;
     transition: 0.2s ease-in-out;
     box-shadow: 0 2px 3px rgba(0,0,0,0.2);
